@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #fff;
+}
+
+:root{
+	font-size: 100%;
+
+	--color_1: rgb(70.994, 247.76, 139.09);
+	--color_2: rgba(15.913, 14.942, 16.934, 1.0);
+	--color_2_75: rgba(15.913, 14.942, 16.934, .75);
+	--color_3: rgb(31.825, 29.883, 33.867);
+	--color_4: rgb(206.19, 80.684, 129.71);
+
+	--tipo_shoulders_d: 'Big Shoulders Display', cursive;
+	--tipo_shoulders_t: 'Big Shoulders Text', cursive;
+	--tipo_montserrat: 'Montserrat', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-family: var(--tipo_shoulders_d);
+	text-transform: uppercase;
+	font-size: 2.5rem;
+	font-weight: 700;
+	letter-spacing: .075em;
+}
+
+p{
+	font-family: var(--tipo_montserrat);
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 1rem;
+	background-color: var(--color_2_75);
+	backdrop-filter: blur(10px);
+	z-index: 1000;
+}
+
+.logotipo-container{
+	align-items: center;
+	display: flex;
+	gap: 1rem;
+}
+
+.header-title{
+	font-family: var(--tipo_shoulders_d);
+	font-size: 2rem;
+	font-weight: 100;
+	letter-spacing: .075em;
+}
+
+.logo-container{
+	width: 3rem;
+	height: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100%;
+	background-color: #fff;
+}
+
+.logo-container img{
+	width: 65%;
+	height: 65%;
+}
+
+.menu svg{
+	font-size: 1.5rem;
+	cursor: pointer;
+}
+
+main{
+	display: flex;
+	flex-direction: column;
+	z-index: 0;
+	width: 100%;
+}
+
+.hero-parrafo_container{
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	z-index: 200;
+}
+
+.parrafo{
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.articulo{
+	width: 100%;
+	min-height: 100vh;
+	padding: 8rem 1rem 4rem 1rem;
+}
+
+#hero{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	background-image: url('../images/background-2.png');
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(1.1);
+}
+
+#hero::before{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 85vh;
+	background: linear-gradient(to top, rgb(28.825, 26.883, 30.867) 10%, transparent);
+	z-index: -100;
+}
+
+#portfolio{
+	background-color: var(--color_3);
+}
+
+.mascara{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+footer{
+	width: 100%;
+	display: flex;
+	z-index: 1000;
+	padding: 2rem 1rem;
+	background-color: var(--color_2);
+}
+
+footer p{
+	font-size: .75rem;
+	font-weight: 100;
+}
+
+.texto_celeste{
+	color: var(--color_1);
+}
+
+.title_fx{
+	padding: 0 .25em;
+	background-image: linear-gradient(var(--color_4), var(--color_4));
+	background-position: 0% 100%;
+	background-repeat: no-repeat;
+	background-size: 2% 3rem;
+	animation: titleFx 5s infinite ease;
+	transition: background-size, color, .2s;
+}
+
+@keyframes titleFx{
+	0%{
+		background-size: 2% 3rem;
+	}
+	10%{
+		background-size: 100% 3rem;
+	}
+	20%{
+		background-size: 2% 3rem;
+	}
+}
+
+@media only screen and (min-width: 1280px){
+	:root{
+		font-size: 150%;
+	}
+}

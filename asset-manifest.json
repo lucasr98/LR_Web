@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.ff55120d.css",
-    "main.js": "/LR_Web/static/js/main.0d725b2d.js",
+    "main.css": "/LR_Web/static/css/main.1956a31c.css",
+    "main.js": "/LR_Web/static/js/main.d07823af.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/background-2.png": "/LR_Web/static/media/background-2.0d31955034cfa35ac3a4.png",
     "index.html": "/LR_Web/index.html",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
-    "main.ff55120d.css.map": "/LR_Web/static/css/main.ff55120d.css.map",
-    "main.0d725b2d.js.map": "/LR_Web/static/js/main.0d725b2d.js.map",
+    "main.1956a31c.css.map": "/LR_Web/static/css/main.1956a31c.css.map",
+    "main.d07823af.js.map": "/LR_Web/static/js/main.d07823af.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff55120d.css",
-    "static/js/main.0d725b2d.js"
+    "static/css/main.1956a31c.css",
+    "static/js/main.d07823af.js"
   ]
 }

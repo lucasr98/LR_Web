@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.5d2482ad.css",
-    "main.js": "/LR_Web/static/js/main.8112d64e.js",
+    "main.css": "/LR_Web/static/css/main.724b966a.css",
+    "main.js": "/LR_Web/static/js/main.8677fc4e.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/background-2.png": "/LR_Web/static/media/background-2.0d31955034cfa35ac3a4.png",
+    "static/media/LR_Dibuja_portada.jpg": "/LR_Web/static/media/LR_Dibuja_portada.fa220feabe5276221f81.jpg",
+    "static/media/Delicias_de_Alma_portada.jpg": "/LR_Web/static/media/Delicias_de_Alma_portada.44d35d543faddccbe6ac.jpg",
+    "static/media/Laplace_dos_dados.jpg": "/LR_Web/static/media/Laplace_dos_dados.3db44c854a793b0897f6.jpg",
+    "static/media/Problema_de_Monty_Hall.jpg": "/LR_Web/static/media/Problema_de_Monty_Hall.a1b82a127d9ecd3b322b.jpg",
     "index.html": "/LR_Web/index.html",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
-    "main.5d2482ad.css.map": "/LR_Web/static/css/main.5d2482ad.css.map",
-    "main.8112d64e.js.map": "/LR_Web/static/js/main.8112d64e.js.map",
+    "main.724b966a.css.map": "/LR_Web/static/css/main.724b966a.css.map",
+    "main.8677fc4e.js.map": "/LR_Web/static/js/main.8677fc4e.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d2482ad.css",
-    "static/js/main.8112d64e.js"
+    "static/css/main.724b966a.css",
+    "static/js/main.8677fc4e.js"
   ]
 }

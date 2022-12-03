@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.57576b94.css",
-    "main.js": "/LR_Web/static/js/main.0ed74938.js",
+    "main.css": "/LR_Web/static/css/main.e4ccb625.css",
+    "main.js": "/LR_Web/static/js/main.c90ef36c.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
-    "static/media/background-2.png": "/LR_Web/static/media/background-2.0d31955034cfa35ac3a4.png",
+    "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
+    "static/media/LR_Web-Lucas.png": "/LR_Web/static/media/LR_Web-Lucas.1577fc52455ce799092c.png",
+    "static/media/LR_Web-Particulas.png": "/LR_Web/static/media/LR_Web-Particulas.56fae20ba5a5b04b6f0b.png",
     "static/media/Remada_x_el_Riachuelo_portada.jpg": "/LR_Web/static/media/Remada_x_el_Riachuelo_portada.99aab6a1583181daf087.jpg",
     "static/media/Tribute-page_freeCodeCamp.jpg": "/LR_Web/static/media/Tribute-page_freeCodeCamp.f748b37f42d24ee1956c.jpg",
     "static/media/Technical-document-page_freeCodeCamp.jpg": "/LR_Web/static/media/Technical-document-page_freeCodeCamp.c2fd69fdce6928cd3438.jpg",
@@ -21,6 +23,7 @@
     "static/media/Prueba-React-Boton_cambia_color.jpg": "/LR_Web/static/media/Prueba-React-Boton_cambia_color.e8538b1325e18c659310.jpg",
     "static/media/Prueba-Tema.jpg": "/LR_Web/static/media/Prueba-Tema.75121027258e1d522f77.jpg",
     "static/media/Prueba-Cuenta_regresiva.jpg": "/LR_Web/static/media/Prueba-Cuenta_regresiva.38fc8a9521888021f6a1.jpg",
+    "static/media/LR_Web-Mascara.png": "/LR_Web/static/media/LR_Web-Mascara.c2ccd5608af0e9fd5144.png",
     "static/media/PHP-logo.svg": "/LR_Web/static/media/PHP-logo.b07502d4f882ef18b8fe7e2ee1df9fa8.svg",
     "static/media/MySQL-Logo.svg": "/LR_Web/static/media/MySQL-Logo.f2d556d483eca2bbf2559df3c07f5ed9.svg",
     "static/media/Javascript_badge.svg": "/LR_Web/static/media/Javascript_badge.6cc36eed3910159ddeb6c020e9756308.svg",
@@ -29,12 +32,12 @@
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.4b065698c6bb620515133f0eb5dfc950.svg",
     "static/media/React-icon.svg": "/LR_Web/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.57576b94.css.map": "/LR_Web/static/css/main.57576b94.css.map",
-    "main.0ed74938.js.map": "/LR_Web/static/js/main.0ed74938.js.map",
+    "main.e4ccb625.css.map": "/LR_Web/static/css/main.e4ccb625.css.map",
+    "main.c90ef36c.js.map": "/LR_Web/static/js/main.c90ef36c.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57576b94.css",
-    "static/js/main.0ed74938.js"
+    "static/css/main.e4ccb625.css",
+    "static/js/main.c90ef36c.js"
   ]
 }

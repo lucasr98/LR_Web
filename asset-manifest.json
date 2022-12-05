@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.e4ccb625.css",
-    "main.js": "/LR_Web/static/js/main.c90ef36c.js",
+    "main.css": "/LR_Web/static/css/main.51fbf04d.css",
+    "main.js": "/LR_Web/static/js/main.56228a34.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/LR_Web-Lucas.png": "/LR_Web/static/media/LR_Web-Lucas.1577fc52455ce799092c.png",
@@ -32,12 +32,12 @@
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.4b065698c6bb620515133f0eb5dfc950.svg",
     "static/media/React-icon.svg": "/LR_Web/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.e4ccb625.css.map": "/LR_Web/static/css/main.e4ccb625.css.map",
-    "main.c90ef36c.js.map": "/LR_Web/static/js/main.c90ef36c.js.map",
+    "main.51fbf04d.css.map": "/LR_Web/static/css/main.51fbf04d.css.map",
+    "main.56228a34.js.map": "/LR_Web/static/js/main.56228a34.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4ccb625.css",
-    "static/js/main.c90ef36c.js"
+    "static/css/main.51fbf04d.css",
+    "static/js/main.56228a34.js"
   ]
 }

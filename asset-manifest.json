@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LR_Web/static/css/main.51fbf04d.css",
-    "main.js": "/LR_Web/static/js/main.1e79ae22.js",
+    "main.js": "/LR_Web/static/js/main.9f140d19.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -28,17 +28,18 @@
     "static/media/PHP-logo.svg": "/LR_Web/static/media/PHP-logo.b07502d4f882ef18b8fe7e2ee1df9fa8.svg",
     "static/media/MySQL-Logo.svg": "/LR_Web/static/media/MySQL-Logo.f2d556d483eca2bbf2559df3c07f5ed9.svg",
     "static/media/Javascript_badge.svg": "/LR_Web/static/media/Javascript_badge.6cc36eed3910159ddeb6c020e9756308.svg",
+    "static/media/Bootstrap_logo.svg": "/LR_Web/static/media/Bootstrap_logo.8373fce65e74f60dacada4dab806f662.svg",
     "index.html": "/LR_Web/index.html",
     "static/media/CSS3_logo_and_wordmark.svg": "/LR_Web/static/media/CSS3_logo_and_wordmark.fcb84c2378f8700c3cfd1fcfd8f30f7f.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.4b065698c6bb620515133f0eb5dfc950.svg",
     "static/media/React-icon.svg": "/LR_Web/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.51fbf04d.css.map": "/LR_Web/static/css/main.51fbf04d.css.map",
-    "main.1e79ae22.js.map": "/LR_Web/static/js/main.1e79ae22.js.map",
+    "main.9f140d19.js.map": "/LR_Web/static/js/main.9f140d19.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51fbf04d.css",
-    "static/js/main.1e79ae22.js"
+    "static/js/main.9f140d19.js"
   ]
 }

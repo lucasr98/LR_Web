@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.4103ae6d.css",
-    "main.js": "/LR_Web/static/js/main.5b8f5db6.js",
+    "main.css": "/LR_Web/static/css/main.87f99d2b.css",
+    "main.js": "/LR_Web/static/js/main.6f163762.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -25,22 +25,22 @@
     "static/media/Prueba-Tema.jpg": "/LR_Web/static/media/Prueba-Tema.75121027258e1d522f77.jpg",
     "static/media/Prueba-Cuenta_regresiva.jpg": "/LR_Web/static/media/Prueba-Cuenta_regresiva.38fc8a9521888021f6a1.jpg",
     "static/media/LR_Web-Mascara.png": "/LR_Web/static/media/LR_Web-Mascara.c2ccd5608af0e9fd5144.png",
-    "static/media/PHP-logo.svg": "/LR_Web/static/media/PHP-logo.b07502d4f882ef18b8fe7e2ee1df9fa8.svg",
-    "static/media/MySQL-Logo.svg": "/LR_Web/static/media/MySQL-Logo.f2d556d483eca2bbf2559df3c07f5ed9.svg",
-    "static/media/Sass_Logo_Color.svg": "/LR_Web/static/media/Sass_Logo_Color.540ec25faf04e640b555c5773d3a6d9f.svg",
-    "static/media/Javascript_badge.svg": "/LR_Web/static/media/Javascript_badge.6cc36eed3910159ddeb6c020e9756308.svg",
-    "static/media/Bootstrap_logo.svg": "/LR_Web/static/media/Bootstrap_logo.8373fce65e74f60dacada4dab806f662.svg",
+    "static/media/PHP-logo.svg": "/LR_Web/static/media/PHP-logo.bf0014a314d865b498a5d0542986ea62.svg",
+    "static/media/MySQL-Logo.svg": "/LR_Web/static/media/MySQL-Logo.0a06263bb9dc350362e19bdc8bac8782.svg",
+    "static/media/Sass_Logo_Color.svg": "/LR_Web/static/media/Sass_Logo_Color.a1fc4e7f2b3bd3e93099ffe1e894f774.svg",
+    "static/media/Javascript_badge.svg": "/LR_Web/static/media/Javascript_badge.6e52f1323147c858c8092361b4e67e6d.svg",
     "index.html": "/LR_Web/index.html",
-    "static/media/CSS3_logo_and_wordmark.svg": "/LR_Web/static/media/CSS3_logo_and_wordmark.fcb84c2378f8700c3cfd1fcfd8f30f7f.svg",
+    "static/media/Bootstrap_logo.svg": "/LR_Web/static/media/Bootstrap_logo.07baaca0a517fad6d24396d52cc93959.svg",
+    "static/media/React-icon.svg": "/LR_Web/static/media/React-icon.9b1c890ac53640e2db3745548315eb47.svg",
+    "static/media/CSS3_logo_and_wordmark.svg": "/LR_Web/static/media/CSS3_logo_and_wordmark.4308a859fb22923d7605b1e77f8e071a.svg",
+    "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.630f953b525fe4d2cece7e414faadba3.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
-    "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.4b065698c6bb620515133f0eb5dfc950.svg",
-    "static/media/React-icon.svg": "/LR_Web/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.4103ae6d.css.map": "/LR_Web/static/css/main.4103ae6d.css.map",
-    "main.5b8f5db6.js.map": "/LR_Web/static/js/main.5b8f5db6.js.map",
+    "main.87f99d2b.css.map": "/LR_Web/static/css/main.87f99d2b.css.map",
+    "main.6f163762.js.map": "/LR_Web/static/js/main.6f163762.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4103ae6d.css",
-    "static/js/main.5b8f5db6.js"
+    "static/css/main.87f99d2b.css",
+    "static/js/main.6f163762.js"
   ]
 }

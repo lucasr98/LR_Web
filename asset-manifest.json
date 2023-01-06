@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LR_Web/static/css/main.87f99d2b.css",
-    "main.js": "/LR_Web/static/js/main.6f163762.js",
+    "main.js": "/LR_Web/static/js/main.3802a05d.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -13,6 +13,7 @@
     "static/media/LR_Dibuja_portada.jpg": "/LR_Web/static/media/LR_Dibuja_portada.fa220feabe5276221f81.jpg",
     "static/media/Delicias_de_Alma_portada.jpg": "/LR_Web/static/media/Delicias_de_Alma_portada.44d35d543faddccbe6ac.jpg",
     "static/media/Landing-page_freeCodeCamp.jpg": "/LR_Web/static/media/Landing-page_freeCodeCamp.23dab84f715c691b6478.jpg",
+    "static/media/Prueba-React-El_Cosmonauta.jpg": "/LR_Web/static/media/Prueba-React-El_Cosmonauta.7c0d9b3df4d659e19f2f.jpg",
     "static/media/Laplace_dos_dados.jpg": "/LR_Web/static/media/Laplace_dos_dados.3db44c854a793b0897f6.jpg",
     "static/media/Personal-portfolio_freeCodeCamp.jpg": "/LR_Web/static/media/Personal-portfolio_freeCodeCamp.850df711d6a9c26fd98f.jpg",
     "static/media/Prueba-Juego_del_mas_rapido.jpg": "/LR_Web/static/media/Prueba-Juego_del_mas_rapido.469bcb36bf089dc267f5.jpg",
@@ -36,11 +37,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.630f953b525fe4d2cece7e414faadba3.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "main.87f99d2b.css.map": "/LR_Web/static/css/main.87f99d2b.css.map",
-    "main.6f163762.js.map": "/LR_Web/static/js/main.6f163762.js.map",
+    "main.3802a05d.js.map": "/LR_Web/static/js/main.3802a05d.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87f99d2b.css",
-    "static/js/main.6f163762.js"
+    "static/js/main.3802a05d.js"
   ]
 }

@@ -1,17 +1,47 @@
-const Hero = ()=>{
+import React, { useState, useEffect } from 'react';
+
+let contador = 0;
+
+const Hero = (props)=>{
+
+	const [experiencia, setExperiencia] = useState(props.exp[contador])
+
+	useEffect(()=>{
+		const interval = setInterval(()=>{
+			contador++
+			if(contador >= props.exp.length){
+				contador = 0;
+			}
+			setExperiencia(props.exp[contador])
+		}, 5000);
+		return ()=> clearInterval(interval);
+	}, []);
+
 	return(
 
-		<article id="hero" className="articulo">
+		<section id="hero" className="seccion">
 			<div className="hero-parrafo_container">
-                <h1>
-                	Desarrollador <span className="title_fx">Front-end</span>
-            	</h1>
+                <div className="titles-container">
+                	<h1>
+	                	Desarrollador
+	            	</h1>
+	            	<h1 className="title_fx">
+	            		Front-end
+	        		</h1>
+	                </div>
                 <div className="parrafo">
-                    <p>Me llamo Lucas Retamozo y soy un desarrollador web Front-end de Argentina.</p>
-                    <p>Tengo experiencia en <span className="texto_celeste">HTML</span>, <span className="texto_celeste">CSS</span>, <span className="texto_celeste">JavaScript</span>, <span className="texto_celeste">React</span>, <span className="texto_celeste">PHP</span>, y <span className="texto_celeste">MySQL</span>.</p>
+                    <p className="light">Me llamo Lucas Retamozo y soy un desarrollador web Front-end de Argentina.</p>
+                    <div className="experiencias-container">
+                    	<p>Experiencia en:</p>
+                    	<a href="#experiencia" className="experiencias" onClick={props.resaltarExperiencia} id="redirigirExperiencia">
+							<span className="logos-container">{experiencia.componente}</span>
+							<p>{experiencia.nombre}</p>
+							<div className="experiencias-mascara"></div>
+						</a>
+                    </div>
                 </div>
             </div>
-		</article>
+		</section>
 
 	)
 }

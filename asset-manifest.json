@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LR_Web/static/css/main.87f99d2b.css",
-    "main.js": "/LR_Web/static/js/main.0f0b4550.js",
+    "main.js": "/LR_Web/static/js/main.afb0e5e1.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -10,8 +10,8 @@
     "static/media/Remada_x_el_Riachuelo_portada.jpg": "/LR_Web/static/media/Remada_x_el_Riachuelo_portada.99aab6a1583181daf087.jpg",
     "static/media/Tribute-page_freeCodeCamp.jpg": "/LR_Web/static/media/Tribute-page_freeCodeCamp.f748b37f42d24ee1956c.jpg",
     "static/media/Technical-document-page_freeCodeCamp.jpg": "/LR_Web/static/media/Technical-document-page_freeCodeCamp.c2fd69fdce6928cd3438.jpg",
+    "static/media/Prueba-React-Administrador_de_cuentas.png": "/LR_Web/static/media/Prueba-React-Administrador_de_cuentas.92c960443a6b3086d59d.png",
     "static/media/LR_Dibuja_portada.jpg": "/LR_Web/static/media/LR_Dibuja_portada.fa220feabe5276221f81.jpg",
-    "static/media/Prueba-React-Administrador_de_cuentas.png": "/LR_Web/static/media/Prueba-React-Administrador_de_cuentas.2c51db20073b105ece8a.png",
     "static/media/Delicias_de_Alma_portada.jpg": "/LR_Web/static/media/Delicias_de_Alma_portada.44d35d543faddccbe6ac.jpg",
     "static/media/Landing-page_freeCodeCamp.jpg": "/LR_Web/static/media/Landing-page_freeCodeCamp.23dab84f715c691b6478.jpg",
     "static/media/Prueba-React-El_Cosmonauta.jpg": "/LR_Web/static/media/Prueba-React-El_Cosmonauta.7c0d9b3df4d659e19f2f.jpg",
@@ -38,11 +38,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.630f953b525fe4d2cece7e414faadba3.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "main.87f99d2b.css.map": "/LR_Web/static/css/main.87f99d2b.css.map",
-    "main.0f0b4550.js.map": "/LR_Web/static/js/main.0f0b4550.js.map",
+    "main.afb0e5e1.js.map": "/LR_Web/static/js/main.afb0e5e1.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87f99d2b.css",
-    "static/js/main.0f0b4550.js"
+    "static/js/main.afb0e5e1.js"
   ]
 }

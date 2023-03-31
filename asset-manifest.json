@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.87f99d2b.css",
-    "main.js": "/LR_Web/static/js/main.2ecddb51.js",
+    "main.css": "/LR_Web/static/css/main.846ce83a.css",
+    "main.js": "/LR_Web/static/js/main.5583202e.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -37,12 +37,13 @@
     "static/media/CSS3_logo_and_wordmark.svg": "/LR_Web/static/media/CSS3_logo_and_wordmark.4308a859fb22923d7605b1e77f8e071a.svg",
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.630f953b525fe4d2cece7e414faadba3.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
-    "main.87f99d2b.css.map": "/LR_Web/static/css/main.87f99d2b.css.map",
-    "main.2ecddb51.js.map": "/LR_Web/static/js/main.2ecddb51.js.map",
+    "static/media/Angular_logo.svg": "/LR_Web/static/media/Angular_logo.86175d47890c6b5b94b0ad85de129de3.svg",
+    "main.846ce83a.css.map": "/LR_Web/static/css/main.846ce83a.css.map",
+    "main.5583202e.js.map": "/LR_Web/static/js/main.5583202e.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87f99d2b.css",
-    "static/js/main.2ecddb51.js"
+    "static/css/main.846ce83a.css",
+    "static/js/main.5583202e.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LR_Web/static/css/main.846ce83a.css",
-    "main.js": "/LR_Web/static/js/main.8cb510f8.js",
+    "main.css": "/LR_Web/static/css/main.e0c8834d.css",
+    "main.js": "/LR_Web/static/js/main.cd383a2e.js",
     "static/js/787.73c47d3d.chunk.js": "/LR_Web/static/js/787.73c47d3d.chunk.js",
     "static/media/LR_Web-Circulo.png": "/LR_Web/static/media/LR_Web-Circulo.7c18bd980bf94707cecd.png",
     "static/media/Prueba-React-E_commerce.png": "/LR_Web/static/media/Prueba-React-E_commerce.c863022edeed83eaf3b7.png",
@@ -39,12 +39,12 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/LR_Web/static/media/HTML5_logo_and_wordmark.630f953b525fe4d2cece7e414faadba3.svg",
     "static/media/LR 2021.svg": "/LR_Web/static/media/LR 2021.1042c42fef50f75da8302a23dbf2b199.svg",
     "static/media/Angular_logo.svg": "/LR_Web/static/media/Angular_logo.86175d47890c6b5b94b0ad85de129de3.svg",
-    "main.846ce83a.css.map": "/LR_Web/static/css/main.846ce83a.css.map",
-    "main.8cb510f8.js.map": "/LR_Web/static/js/main.8cb510f8.js.map",
+    "main.e0c8834d.css.map": "/LR_Web/static/css/main.e0c8834d.css.map",
+    "main.cd383a2e.js.map": "/LR_Web/static/js/main.cd383a2e.js.map",
     "787.73c47d3d.chunk.js.map": "/LR_Web/static/js/787.73c47d3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.846ce83a.css",
-    "static/js/main.8cb510f8.js"
+    "static/css/main.e0c8834d.css",
+    "static/js/main.cd383a2e.js"
   ]
 }
